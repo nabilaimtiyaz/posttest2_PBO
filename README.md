@@ -1,8 +1,10 @@
 # Post test 2
 
-**Nama: Nabila Imtiyaz Agustin
-NIM: 2409116011
-Kelas: A'2024**
+**Nama: Nabila Imtiyaz Agustin**
+
+**NIM: 2409116011**
+
+**Kelas: A'2024**
 
 # Tema
 
