@@ -1,5 +1,9 @@
 # Post test 2
 
+**Nama: Nabila Imtiyaz Agustin
+NIM: 2409116011
+Kelas: A'2024**
+
 # Tema
 
 Tema yang digunakan masih sama, yaitu Sistem Pencatatan Hasil Panen Kebun. Perbedaan mendasar dari Posttest 1 adalah struktur program yang telah ditingkatkan dengan penerapan tiga kelas yang masing-masing memiliki properti, constructor, serta access modifier untuk menjaga enkapsulasi data. Program ini juga dikelola menggunakan packages yang dipisahkan berdasarkan fungsinya sesuai pola MVC (Model-View-Controller) sehingga kode menjadi lebih rapi, terorganisir, dan mudah dikembangkan.
@@ -59,20 +63,20 @@ Jika  pengguna memilih lihat item pada nomor 2, program akan menampilkan seluruh
 
 Pada menu edit item, pengguna diminta memilih nomor data yang ingin diubah, lalu dimasukkan data baru untuk mengganti yang lama.
 
-5. Menu Hapus Item
+**5. Menu Hapus Item**
 
 <img width="411" height="131" alt="image" src="https://github.com/user-attachments/assets/9b85a855-e020-48a9-9fdb-13bb66c1044f" />
 
 
 Menu hapus item bekerja serupa, yaitu meminta nomor data yang akan dihapus, lalu semua data pada nomor tersebut dihapus dari daftar.
 
-6. Menu Cari Item
+**6. Menu Cari Item**
 
 <img width="488" height="82" alt="image" src="https://github.com/user-attachments/assets/060d52fe-007e-4fe8-aefd-899c3474026f" />
 
 Sedangkan pada menu cari item, pengguna bisa memasukkan nama kategori dari sayur/buah, dan program akan menampilkan data yang sesuai dengan pencarian pengguna.
 
-7. Menu Keluar
+**7. Menu Keluar**
 
 <img width="196" height="49" alt="image" src="https://github.com/user-attachments/assets/019cb750-ddb4-4d25-b91e-d4c07fb8c1b1" />
 
